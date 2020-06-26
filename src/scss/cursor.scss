@@ -1,0 +1,74 @@
+//  body {
+//      cursor: default;
+//  }
+
+///////////// SeachBar‘s cursor //////////
+.searchbar.google-searchbar {
+    cursor: text;
+    
+    .buttons
+    * {
+        cursor: pointer;
+    }
+}
+.google-definition {
+    #listen:hover {
+        cursor:  pointer;
+    }
+}
+
+.card {
+    cursor: pointer;
+}
+
+.language-select #language-protip {
+    #close-language-protip{
+        cursor: pointer;
+    }
+}
+
+.select-wrapper {
+    select {
+        cursor: pointer;
+    }
+}
+
+.nose-button {
+    cursor: pointer;
+}
+
+///////// music palyer container‘s cursor /////////
+
+.music-player-container {
+    .music-player{
+        .play-coontoroller {
+            cursor: pointer;
+        }
+        .music-details {
+            .time-controller{
+                .time-bar {
+                    cursor: pointer;
+                }
+                .volume {
+                    cursor: pointer;
+                }
+            }
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+div.main.end {
+    cursor: none;
+}

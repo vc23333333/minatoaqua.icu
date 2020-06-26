@@ -1,0 +1,192 @@
+{
+  "main-intro": {
+    "name": "Minato Aqua",
+    "best-Vtuber-ever": "The best Vtuber.<b>Ever.</b>",
+    "join-telegram": "<i class=\"fab fa-telegram\"></i>join the Telegram Unofficial Group",
+    "telegram-group-cont": "<span id=\"telegram-channel-number\"></span> 122 members ",
+    "join-discord": "<i class=\"fab fa-discord\"></i>Join the Discord Unofficial Group",
+    "discord-count": "<span id=\"discord-number\"></span> members --&gt;",
+    "language-warning": "(These communities use Chinese as their primary language)",
+    "scroll-notice": "<i class=\"fas fa-arrow-down\"></i>Scroll to learn more!",
+    "mobile-disclaimer": "I am really sorry, but the mobile version of this website was kinda rushed and <b>it's really shit</b>, I didn't think anyone would visit it on a phone tbh.",
+    "language-protip": "<!-- Note for teanslators, change \"English\" wo the name of your language of course --> Would you like to view this website in <b>English</b>?<br />Use this drop-down to select a language! ",
+    "language-select": "Language <i class=\"fas fa-angle-down\"></i>",
+    "credits": "First background illustration by <a href=\"https://www.pixiv.net/artworks/74650911\"><b>极道寂</b></a>",
+    "music-player": {
+      "intro": {
+        "bold-text": "想在浏览这个站点时听点BGM吗？",
+        "small-text": "按下左边的按钮就可以了。"
+      },
+      "metadata": {
+        "countdown": "ガヴリールドロップキック",
+        "author": "Minato Aqua,Kagura Mea,Inuyama tamaki,Shirakami Fubuki"
+      },
+      "countdown": "MinatoAqua sings in <span id=\"time-until-minatoaqua\"></span> seconds.",
+      "footer": "You can also listen on <a href=\"https://www.youtube.com/watch?v=m1mbRCgWO90\">YouTube</a> and <a href=\"https://www.bilibili.com/video/av83341369\">Bilibili</a>."
+    },
+    "dev-announcement": {
+      "line-1": "We`re looking for help!",
+      "line-2": "we're looking for web developers to help us. If you have decent skills in web programming and you want to learn more, check out our Github Page post about it!",
+      "line-3": "Hopefully, we'll see you soon.",
+      "Line-4": "If you have decent skills in <b>web programming</b> and you want to learn more,<br />check out our Github page post about it!",
+      "line-5": "Hopefully, we'll see you soon.",
+      "line-6": "Learn More →"
+    }
+  },
+  "become-a-MinatoAqua-follower": {
+    "large-text": "从今天起，做夸哥的粉丝",
+    "sub-text": "<b>有两种方式可以做夸哥的粉丝。</b>, all&nbsp;你需要先订阅MinatoAqua的 <a href=\"https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg\">YouTube</a> 频道和 <a href=\"https://space.bilibili.com/375504219\">Bilibili</a>账号",
+    "small-text": "当然，如果你能做点凑阿夸的梗就再好不过了。"
+  },
+  "sha-is-beautiful": {
+    "large-text": "一个可爱的微笑<br />两个颤抖的眉毛<br />一个像洋葱的头",
+    "sub-text": "她是个非常 <b>普通</b>的女生",
+    "small-text": "我们夸哥的粉丝都是些很有修养、十分和善的人，所以我们只说相当友善的话语或者只复读理解理解。"
+  },
+  "end-the-Waife-war": {
+    "large-text": "这绝对是&nbsp;属于你&nbsp;的最佳虚拟老婆。",
+    "sub-text": "她的出现就此结束了关于谁是最好的虚拟老婆的焦灼混战。"
+  },
+  "she-is-perfect": {
+    "large-text": "长话短说，她就是完美的虚拟老婆。",
+    "sub-text": "Google也赞成。",
+    "searchbar-name": "MinatoAqua",
+    "google-definition": {
+      "name": "perfection",
+      "prononciation": "/pəˈfɛkʃ(ə)n/",
+      "noun": "noun",
+      "definition-1": {
+        "defintiion": "the state or quality of being perfect.",
+        "example": "\"the satiny perfection of <b>MinatoAqua</b>'s skin\"",
+        "synonyms": "synonyms:",
+        "synonyms-list": "MinatoAqua, flawlessness, excellence, superbness, sublimity, exquisiteness, magnificence, perfectness, faultlessness, impeccability, immaculateness, exemplariness<br />\"the satiny perfection of her skin\""
+      },
+      "definition-2": {
+        "definition": "a person or thing considered to be perfect.",
+        "example": "\"I am told that <b>MinatoAqua</b> is perfection itself\"",
+        "synonyms": "synonyms:",
+        "stnonyms-list": "MinatoAqua,the ideal,a paragon, the ne plus ultra, the beau idéal, a nonpareil, the crème de la crème, the last word, the ultimate, a dream; <i>informal</i> one in a million, the tops, the best/greatest thing since sliced melon bread, the bee's knees; <i>archaic</i> a nonesuch<br />\"for her, he was still perfection\""
+      },
+      "definition-3": {
+        "definition": "the action or process of improving something unitl it is faultless.",
+        "example": "\"I worked all day on the perfection of my <b>MinatoAqua</b> drawing\"",
+        "synonyms": "synonyms:",
+        "synonyms-list": "MinatoAqua, improvement, betterment, refinement, refining, perfecting, polishing, amelioration; <i>rare</i> melioration<br />\"the perfection of new mechanisms of economic management\""
+      }
+    }
+  },
+  "no-one-can-conmete": {
+    "large-text": "强无敌，谁也干不过。",
+    "sub-text": "试想一下，为什么有人会觉得Mea，犬山哥，马自立是最好的呢",
+    "table": {
+      "names": {
+        "minatoaqua": "MinatoAqua",
+        "kaguramea": "KaguraMea",
+        "inuyamatamaki": "Inuyama Tamaki",
+        "natsuiromatsuri": "Natsuiro Matsuri"
+      },
+      "Life-dream": {
+        "category": "人生梦想？",
+        "minatoaqua": "(想在东京巨蛋开演唱会)",
+        "kaguramea": "(做一名专业的宅女)",
+        "inuyamatamaki": "(想做专业声优)",
+        "natsuiromatsuri": "(想做专业声优)"
+      },
+      "hard-challenges": {
+        "category": "完成了那些艰难的挑战呢？",
+        "minatoaqua": "(在“回家”游戏里拿到了金壶荣誉。)",
+        "kaguramea": "(说来话长，略略略。)",
+        "inuyamatamaki": "(做很多事都看上去毫不费力。)",
+        "natsuiromatsuri": "(完成过24小时连续直播企划。)"
+      },
+      "pixiv": {
+        "category": "Pixiv上的插图数量？"
+      },
+      "twitter": {
+        "category": "在Twitter上的粉丝数量？"
+      }
+    },
+    "as-of": "*As of 22 January 2020"
+  },
+  "the-others-are-interesting-person": {
+    "large-text": "不开玩笑，其他的管人看起来也蛮有趣的，不开玩笑。",
+    "sub-text": "但她们看上去可能非常可爱，但你深入了解后，会感觉她们不仅仅是可爱。",
+    "the-others-are-interesting-person": {
+      "Tamaki": {
+        "name": "Tamaki",
+        "name-detail": "Inuyama Tamaki<br /><span lang=\"ja\">犬山玉姬=犬山たまき=Inuyamatamaki</span>",
+        "description": {
+          "argument-1": "<b>曾三句不离淫梦话</b>",
+          "argument-2": "<b>开播前字幕组转播man会在 <a href=https://live.bilibili.com/4634167> Bilibili直播间 </a> 整活。</b> ",
+          "argument-3": "他有一位非常完美的妈妈。",
+          "argument-4": "住在高级公寓楼里",
+          "argument-5": "<b>每天都能吃好吃的</b>",
+          "argument-6": "🍋我真的好酸啊🍋",
+          "argument-7": "<b>不过这些都是他努力的回报。</b>",
+          "argument-8": "<b>也能唱出带有厚重的感情歌曲。</b>",
+          "argument-9": "<b>你没看错这是一位伪娘Vtuber。</b>"
+        }
+      },
+      "KaguraMea": {
+        "name": "Mea",
+        "name-detail": "Kagura Mea<br /><span lang=\"ja\">神楽めあ=かぐらめあ=KaguraMea</span>",
+        "description": {
+          "argument-1": "百分百绝对的懒人",
+          "argument-2": "脚丫子散发着一种类似纳豆的味道",
+          "argument-3": "一周洗三次澡.",
+          "argument-4": "经常发出各种巫婆般的笑声",
+          "argument-5": "真诚的听取观众的想法，并尝试满足观众的需求。",
+          "argument-6": "<b>她能唱出带有厚重的感情歌曲。</b>",
+          "argument-7": "<b>相当多的粉丝对其有着复杂的感情。</b>",
+          "argument-8": "<b>是一个很有魅力的姑娘，观众很容易陷得太深。</b>",
+          "argument-9": "<b>如果你已经陷得很深，我们建议做点她的二次创作冷静一下。</b>",
+          "argument-10": "获取更多信息，请翻到页脚。"
+        }
+      },
+      "Matsuri": {
+        "name": "Matsuri",
+        "name-detail": "Natsuiro Matsuri<br /><span lang=\"ja\">夏色祭=夏色まつり=NatsuiroMatsuri</span>",
+        "description": {
+          "argument-1": "Fubuki↓,Fubuki↑ Fubuki↑ FUBUKI!!!!!",
+          "argument-2": "喜欢几乎所有的其他女性VTuber.",
+          "argument-3": "以上轶事相当有争议，还请不要不分场合乱刷。",
+          "argument-4": "<b>不时做出的霸气以及常人做不到的变态举动和不时切换的清楚可爱。</b>",
+          "argument-5": "<b>是清楚与混沌的结合体。</b>",
+          "argument-6": "也能唱出带有厚重的感情歌曲。",
+          "argument-7": "能模仿几乎所有Hololive角色的Vtuber",
+          "argument-8": "<b>她是一位虚拟女高中生。</b>"
+        }
+      }
+    }
+  },
+  "fanarts": {
+    "source": "出处",
+    "large-text": "粉丝的插画&nbsp;超可爱的！",
+    "sub-text": "迷迭迷迭，卡哇伊！<noscript>Slideshow requires JavaScript.</noscript>",
+    "small-text": "你可以点击出处查看插图的来源<br />所有的插图著作版权都归原作者，未经许可，不得转载。"
+  },
+  "autism": {
+    "large-text": "当然她肯定不是孤独传说，别再&nbsp;说&nbsp;了。",
+    "sub-text": "自闭症患者经常会遇到不好表达的情况，一直呆在自己的小角落里, MinatoAqua&nbsp;可不是这样。<br /><b>她可能比你还要开朗。</b>",
+    "small-text": "她只是有点怕生，<br />相处几个小时后可是会很粘人的"
+  },
+  "pope-francis": {
+    "large-text": "她可以取代管人界里所有的老婆。",
+    "sub-text": "你想想，MinatoAqua可以作为所有虚拟油管人的完美替代， <span class=\"small\">点击下面这些卡片可以查看为什么可以。</span>",
+    "cards": {
+      "gabriel": {
+        "question": ""
+      }
+    }
+  },
+  "_javascriptLocales": {
+    "copyMessage": "Just wanted to let you know that MinatoAqua is always with you! Even inside your clipboard! We are everywhere and you should really join us!\nAlso yes, any website can access your clipboard however they want, isn't that creepy?\nRegardless, MinatoAqua is the best Vtuber., and you should agree! https://MinatoAqua.icu/",
+    "searchByVoice": "lmao, no one uses this button",
+    "searchButton": "but the results are already there =]",
+    "searchBar": "this isn't a real search bar",
+    "snedHelp": "pls send helppp",
+    "perfection": "perfection",
+    "searchBarName": "minatoaqua",
+    "newTab": "Link opens in a new tab."
+  }
+}
